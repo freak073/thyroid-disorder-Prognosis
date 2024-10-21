@@ -70,6 +70,11 @@ The system requires data related to thyroid function. Typically, the following f
 - **Recommendations**: Based on the prediction results, the system provides personalized health and medical suggestions.
 - **Chatbot integration**: Helps users better understand their diagnosis and explore further information.
 
+![image](https://github.com/user-attachments/assets/8f1e3bc1-82e5-4842-a972-4ac50c986d25)
+
+![image](https://github.com/user-attachments/assets/087e4301-a089-4a30-b293-93ae47a45090)
+
+
 ## Future Enhancements
 1. **Additional Models**: Exploring other machine learning models like Support Vector Machines (SVM) or deep learning for better accuracy.
 2. **Expand Disorder Prediction**: Include predictions for other thyroid-related disorders such as hyperthyroidism.
