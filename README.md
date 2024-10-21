@@ -26,7 +26,7 @@ The system is built with the following features:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/username/thyroid-disorder-prognosis.git
+    git clone https://github.com/freak073/thyroid-disorder-prognosis.git
     cd thyroid-disorder-prognosis
     ```
 
