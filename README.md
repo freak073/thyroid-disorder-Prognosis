@@ -1,6 +1,4 @@
-Here’s an outline for a **README** file for your **Thyroid Disorder Prognosis** system, based on what we've previously discussed about your project:
 
----
 
 # Thyroid Disorder Prognosis System
 
@@ -81,6 +79,4 @@ The system requires data related to thyroid function. Typically, the following f
 3. **Mobile App**: Create a mobile version of the system for easier accessibility.
 4. **Voice Input**: Integrate speech-to-text functionality for easier data input.
 
----
 
-Feel free to modify any section to match your exact implementation details. Let me know if you'd like to add something more!
